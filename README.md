@@ -66,5 +66,9 @@ Future Improvements ::::::
 . Multiple habit tracking
 
 Screenshots :::
-![Uploading Screenshot 1947-11-23 at 1.48.34 AM.png…]()
+1.![Uploading Screenshot 1947-11-23 at 1.48.34 AM.png…]()
+2.![Uploading Screenshot 1947-11-23 at 12.01.05 AM.png…]()
+3.![Uploading Screenshot 1947-11-23 at 12.29.17 AM.png…]()
+![Uploading Screenshot 1947-11-23 at 12.32.18 AM.png…]()
+![Uploading Screenshot 1947-11-23 at 12.38.47 AM.png…]()
 
